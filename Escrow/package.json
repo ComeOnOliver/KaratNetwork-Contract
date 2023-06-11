@@ -1,0 +1,15 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@openzeppelin/contracts": "^4.9.0",
+    "@openzeppelin/contracts-upgradeable": "^4.9.0",
+    "dotenv": "^16.1.1",
+    "hardhat": "^2.14.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/hardhat-upgrades": "^1.27.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
